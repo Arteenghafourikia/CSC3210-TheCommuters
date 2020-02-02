@@ -1,2 +1,2 @@
 # CSC3210-TheCommuters
-Team Members: Arteen Ghafourikia, Alaya Shack, Andre Nguyenphuc, Joan Galicia, Miquel Romo
+Team Members: Arteen Ghafourikia, Alaya Shack, Andre Nguyenphuc, Joan Galicia, Miguel Romo
